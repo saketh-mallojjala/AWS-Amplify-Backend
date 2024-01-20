@@ -1,8 +1,6 @@
-# Your Project Name
+# AWS-Amplify-Backend
 
-## Project Description
 
-[Add a brief description of your project here]
 
 ## Getting Started
 
